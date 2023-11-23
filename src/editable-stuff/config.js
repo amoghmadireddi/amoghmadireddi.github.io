@@ -41,7 +41,7 @@ const mainBody = {
 //b) a link to an hosted image
 //      i.e:profilePictureLink:"www.picturesonline.com/johnDoeFancyAvatar.jpg",
 //c) image in "editable-stuff" directory and use require("") to import here,
-//      i.e: profilePictureLink: require("../editable-stuff/hashirshoaeb.png"),
+//      i.e: profilePictureLink: require("../editable-stuff/amoghmadireddi.jpg"),
 //d) If you do not want any picture to be displayed, just leave it empty :)
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/amoghmadireddi.jpg"),
   imageSize: 375,
   message:
-    "My name is Amogh Madireddi. I’m will be graduating in 2025 from the University of Michigan Ann Arbor with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Amogh Madireddi. I will be graduating in 2025 from the University of Michigan Ann Arbor with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   resume: "https://docs.google.com/document/d/1VUfSu2SqW-ZVTF4AekMGYYNDuRtTRUjx32uwA0BqpOw/edit?usp=sharing",
 };
 
@@ -103,11 +103,11 @@ const skills = {
     { name: "Python", value: 90 },
     { name: "SQL", value: 75 },
     { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
+    { name: "C/C++", value: 90 },
+    { name: "Machine Learning", value: 90 },
+    { name: "Algorithms", value: 90 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Git/Github", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
