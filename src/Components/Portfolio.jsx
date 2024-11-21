@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/tech.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "person with ideas";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Stock Trading Simulator",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed a full stack application that simulates stock trading. Users can buy and sell stocks at live prices with fake money.",
+    url: "https://github.com/amoghmadireddi",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Operating Systems Thread Library, Pager, and Network File Server",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Led a team to implement a multithreading library, memory file pager, and multithreaded network file server in C++.",
+    url: "https://github.com/amoghmadireddi",
   },
   {
-    title: "My Resume Site",
+    title: "Computer Networks",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Designed a dns server, video proxy, TCP-like network protocol, and static router in C++.",
+    url: "https://github.com/amoghmadireddi",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Distributed Systems",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Implemented various research papers such as Map Reduce and Paxos in Golang.",
+    url: "https://github.com/amoghmadireddi",
   },
 ];
 
